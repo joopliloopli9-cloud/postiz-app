@@ -194,5 +194,4 @@ This repository's source code is available under the [AGPL-3.0 license](LICENSE)
 <br /><br />
 
 <p align="center">
-  <img src="https://github.com/snyk-labs/secure-developer-sample-repo/raw/main/badge_full.svg" alt="Secure Developer Badge Full" width="150">
-</p>
+  <img src="https://github.com/snyk-labs/secure-developer-sample-repo/raw/main/badge_full.svg" alt="Secure Developer Badge Ful
