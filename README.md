@@ -1,33 +1,4 @@
-<p align="center">
-  <a href="https://postiz.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/765e9d72-3ee7-4a56-9d59-a2c9befe2311">
-    <img alt="Postiz Logo" src="https://github.com/user-attachments/assets/f0d30d70-dddb-4142-8876-e9aa6ed1cb99" width="280"/>
-  </picture>
-  </a>
-</p>
 
-<p align="center">
-<a href="https://opensource.org/license/agpl-v3">
-  <img src="https://img.shields.io/badge/License-AGPL%203.0-blue.svg" alt="License">
-</a>
-</p>
-
-<div align="center">
-  <strong>
-    <a href="https://postiz.com">Postiz</a> is a social media management platform for scheduling, automating, and analyzing your content.
-    
-  Use Postiz Cloud for a fully managed experience, or deploy the open-source edition on your own infrastructure.
-  </strong>
-</div>
-
-<p align="center">
-  <br />
-  <a href="https://docs.postiz.com" rel="dofollow"><strong>Explore the docs »</strong></a>
-  <br />
-
-  <br />
-  <a href="https://youtube.com/@postizofficial" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
   <br />
 </p>
 
